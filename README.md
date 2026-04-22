@@ -43,6 +43,7 @@ Java Developer / Backend Developer
 - опыт работы с низкоуровневыми провайдерами, такими как `JdbcTemplate` и `NamedParameterJdbcTemplate`;
 - опыт работы с ORM, такими как `Hibernate`, а также с декларативным способом написания запросов с помощью `Spring Data JPA`;
 - глубокие знания написания оптимизированных запросов с использованием батчей, пагинации, индексов и последовательностей, глубокое понимание принципов работы Hibernate под капотом;
+- написание checkset и checklog-ов для миграций с ипользованием liquibase
 
 ### Architectural rules for building communication in distributed systems
 - понимание сильных сторон и недостатков, а также умение проектировать `REST API`-системы;
